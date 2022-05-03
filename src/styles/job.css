@@ -5,3 +5,6 @@
   border-radius: 0.5em;
   padding: 15px;
 }
+.job_img {
+  display: inline-block;
+}
