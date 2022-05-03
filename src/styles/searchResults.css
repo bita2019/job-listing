@@ -1,0 +1,26 @@
+.searchresults_div {
+  width: 70%;
+  background: rgb(240, 236, 236);
+  color: black;
+  padding: 0.5em;
+  margin: -23px auto 0 auto;
+  box-sizing: border-box;
+  border-radius: 15px;
+  box-shadow: -1px 0 8px 1px rgba(72, 72, 72, 0.456);
+}
+.search_span {
+  margin: 4px 6px;
+  background: #eef6f6;
+  color: #5ea6a5;
+  padding-left: 0.3em;
+}
+.remove_btn {
+  padding: 0.2em 0.4em;
+  background: #5ea6a5;
+  color: white;
+  cursor: pointer;
+  font-weight: 700;
+}
+.remove_btn:hover {
+  background: rgb(11, 11, 11);
+}
